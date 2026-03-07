@@ -62,5 +62,5 @@ else if(computerScore > humanScore){
     console.log("Computer won the game!");
 } 
 else{
-    console.log("The game is a tie!");
+    console.log("The game is a tai!");
 }
